@@ -12,5 +12,6 @@ jobs:
       shield: '["corne_left","corne_right"]'
       alphas: '["qwerty"]'
       clipboard: '["win"]'
-      custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR", "CONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
+      custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       branches: '["caksoylar/zmk/feat/mouse-keys-3.2","zmkfirmware/zmk/main caksoylar/zmk/feat/mouse-keys-3.2"]'
+      kconfig: '["CONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'

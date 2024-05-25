@@ -1,7 +1,7 @@
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build both corne sides, qwerty, win clipboard, mouse PR enabled, increase BT radio'
+name: 'Build both corne sides, qwerty, win clipboard, increase BT radio'
 on: workflow_dispatch
 jobs:
   build:
